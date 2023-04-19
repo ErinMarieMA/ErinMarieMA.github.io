@@ -1,21 +1,16 @@
 {
   "files": {
-    "main.css": "/react-terminal-portfolio/static/css/main.bf0095ea.chunk.css",
-    "main.js": "/react-terminal-portfolio/static/js/main.280a35a0.chunk.js",
-    "main.js.map": "/react-terminal-portfolio/static/js/main.280a35a0.chunk.js.map",
-    "runtime-main.js": "/react-terminal-portfolio/static/js/runtime-main.e3d21111.js",
-    "runtime-main.js.map": "/react-terminal-portfolio/static/js/runtime-main.e3d21111.js.map",
-    "static/js/2.4ee44813.chunk.js": "/react-terminal-portfolio/static/js/2.4ee44813.chunk.js",
-    "static/js/2.4ee44813.chunk.js.map": "/react-terminal-portfolio/static/js/2.4ee44813.chunk.js.map",
-    "index.html": "/react-terminal-portfolio/index.html",
-    "precache-manifest.4fda5c3fc86818938c5c093db254a719.js": "/react-terminal-portfolio/precache-manifest.4fda5c3fc86818938c5c093db254a719.js",
-    "service-worker.js": "/react-terminal-portfolio/service-worker.js",
-    "static/css/main.bf0095ea.chunk.css.map": "/react-terminal-portfolio/static/css/main.bf0095ea.chunk.css.map"
+    "main.css": "/ErinMarieMA.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/ErinMarieMA.github.io/static/js/main.b1fb7658.js",
+    "static/js/787.bc7d429a.chunk.js": "/ErinMarieMA.github.io/static/js/787.bc7d429a.chunk.js",
+    "static/media/logo.svg": "/ErinMarieMA.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ErinMarieMA.github.io/index.html",
+    "main.073c9b0a.css.map": "/ErinMarieMA.github.io/static/css/main.073c9b0a.css.map",
+    "main.b1fb7658.js.map": "/ErinMarieMA.github.io/static/js/main.b1fb7658.js.map",
+    "787.bc7d429a.chunk.js.map": "/ErinMarieMA.github.io/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e3d21111.js",
-    "static/js/2.4ee44813.chunk.js",
-    "static/css/main.bf0095ea.chunk.css",
-    "static/js/main.280a35a0.chunk.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b1fb7658.js"
   ]
 }
