@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ErinMarieMA.github.io/static/css/main.fe425cde.css",
+    "main.js": "/ErinMarieMA.github.io/static/js/main.3c53483f.js",
+    "index.html": "/ErinMarieMA.github.io/index.html",
+    "main.fe425cde.css.map": "/ErinMarieMA.github.io/static/css/main.fe425cde.css.map",
+    "main.3c53483f.js.map": "/ErinMarieMA.github.io/static/js/main.3c53483f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe425cde.css",
+    "static/js/main.3c53483f.js"
+  ]
+}
